@@ -1,0 +1,6 @@
+q5-a.r is a program which can get the performance of calculating three different distance metrics (Euclidean, Manhattan, Lmax) by inputing different k. 
+Also, in this program can get three different metrics between every user and every other user.
+
+For q5-a.r, it should be run in RStudio.
+Input: You should import u.data and name it u before you run the program which u.data is in the 100K Dataset folder.
+Output: three different distance metrics (Euclidean, Manhattan, Lmax) which are in the three different output file and three different performance based on using different distance metrics by inputing different k.

@@ -1,0 +1,6 @@
+q5-b.r is a program which can get the performance of calculating Manhattan distance by inputing different k. 
+Also, in this program I add either two feature in the distance which are gender and occupation.
+
+For q5-b.r, it should be run in RStudio.
+Input: You should import u.data and name it "u" and import u.user and name it "u_info" before you run the program which u.data and u.user is in the 100K Dataset folder.
+Output: The performance of Manhattan by inputing different k.
